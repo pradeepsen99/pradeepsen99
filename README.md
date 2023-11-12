@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pradeepsen99
 - 👀 I’m interested in Applied Machine Learning and AI along with Full Stack Development
-- 🌱 I’m currently learning AI Applications in Livestock senarios
+- 💊 Currently a SDE @ Alto!
 - 📫 You can reach me at pradeepsen99[at]gmail.com
 
 <!---[Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradeepsen99&count_private=true&show_icons=true&theme=blue-green)
