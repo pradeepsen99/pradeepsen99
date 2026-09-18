@@ -1,9 +1,7 @@
 ### I'm pradeep
-currently an MLE at Alto Pharmacy.
+currently an MLE.
 
 <a href="https://pradeepsen.com">website</a>
-
-<!---[Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradeepsen99&count_private=true&show_icons=true&theme=blue-green)
 
 <!---
 pradeepsen99/pradeepsen99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
